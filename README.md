@@ -1,6 +1,6 @@
-# Adaptix
+# Adaptive Streaming
 
-Adaptix is a modern video streaming platform featuring **adaptive streaming**—it analyzes each user’s bandwidth in real time and automatically adjusts video quality for the best possible experience. Built with React, Vite, TailwindCSS, and Firebase, Adaptix also offers authentication, personalized dashboards, and secure video streaming.
+The Adaptive Streaming Application is a modern video streaming platform featuring **adaptive streaming**—it analyzes each user’s bandwidth in real time and automatically adjusts video quality for the best possible experience. Built with React, Vite, TailwindCSS, and Firebase, Adaptix also offers authentication, personalized dashboards, and secure video streaming.
 
 ## Features
 
