@@ -22,8 +22,8 @@ Adaptix is a modern video streaming platform featuring **adaptive streaming**—
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/krishaga/Adaptix.git
-   cd adaptix
+   git clone https://github.com/rgb654/Adaptive-Streaming.git
+   cd adaptive-streaming
    ```
 2. **Install dependencies:**
    ```bash
@@ -49,7 +49,7 @@ Adaptix is a modern video streaming platform featuring **adaptive streaming**—
 ## Project Structure
 
 ```
-adaptix/
+adaptive-streaming/
 ├── public/                # Static assets
 ├── src/
 │   ├── components/        # Reusable UI components
@@ -66,7 +66,7 @@ adaptix/
 
 ## Environment Variables
 
-Create a `.env` file in the `adaptix` folder with your Firebase credentials:
+Create a `.env` file in the `adaptive-streaming` folder with your Firebase credentials:
 
 ```
 VITE_FIREBASE_API_KEY=your_api_key
